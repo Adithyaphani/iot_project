@@ -1,3 +1,3 @@
 # iot_project
 my iot project
-iot internship
+iot internship from internship studio
